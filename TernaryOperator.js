@@ -58,10 +58,10 @@ let weather={
 
 // Logical Opertor 
 // &&
-console.log(true&&true)
-console.log(true&&false)
-console.log(true||false)
-console.log(true||true)
+// console.log(true&&true)
+// console.log(true&&false)
+// console.log(true||false)
+// console.log(true||true)
 
 // 0-false 
 // ""
